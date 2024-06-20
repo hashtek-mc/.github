@@ -75,7 +75,11 @@
             <a href="https://instagram.com/shuvlyyy">photographie</a> et l'aviation :)
           </td>
           <td align="center">
-            desc
+            🇫🇷 Étudiant de 19 ans à Epitech.
+            <br />
+            Grand passionné d'informatique<br />
+            depuis plusieurs années.<br />
+            Joueur Minecraft depuis 2011.
           </td>
           <td align="center">
             desc
