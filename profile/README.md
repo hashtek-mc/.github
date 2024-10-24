@@ -42,11 +42,6 @@
               <img src="https://raw.githubusercontent.com/hashtek-mc/.github/main/media/portraits/Lysandre-B.JPG?raw=true" height="175" alt="Lysandre (aka. Shuvly)'s portrait"/>
             </a>
           </td>
-          <td align="center">
-            <a href="https://github.com/shuvlyy" target="_blank">
-              <img src="https://raw.githubusercontent.com/hashtek-mc/.github/main/media/portraits/Nathan-J.JPG?raw=true" height="175" alt="Nathan (aka. nl1x)'s portrait"/>
-            </a>
-          </td>
         </tr>
         <tr>
           <td align="center">
