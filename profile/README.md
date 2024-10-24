@@ -52,9 +52,6 @@
           <td align="center">
             <p>Lysandre BOURSETTE<br/><a href="https://github.com/shuvlyy" target="_blank">@shuvlyy</a></p>
           </td>
-          <td align="center">
-            <p>Nathan JEANNOT<br/><a href="https://github.com/nl1x" target="_blank">@nl1x</a></p>
-          </td>
         </tr>
         <tr>
           <td align="center">
@@ -65,13 +62,6 @@
             <br/>
             J'aime aussi beaucoup la<br/>
             <a href="https://instagram.com/shuvlyyy">photographie</a> et l'aviation :)
-          </td>
-          <td align="center">
-            🇫🇷 Étudiant de 19 ans à Epitech.
-            <br />
-            Grand passionné d'informatique<br />
-            depuis plusieurs années.<br />
-            Joueur Minecraft depuis 2011.
           </td>
         </tr>
        </table>
