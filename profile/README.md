@@ -62,8 +62,6 @@
         <tr>
           <td align="center">
             <a href="https://github.com/shuvlyy" target="_blank">
-              <img src="https://raw.githubusercontent.com/hashtek-mc/.github/main/media/portraits/Lysandre-B.JPG?raw=true" height="175" alt="Lysandre (aka. Shuvly)'s portrait"/>
-            </a>
           </td>
         </tr>
         <tr>
