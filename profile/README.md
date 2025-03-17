@@ -59,6 +59,25 @@
             <a href="https://instagram.com/shuvlyyy">photographie</a> et l'aviation :)
           </td>
         </tr>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/shuvlyy" target="_blank">
+              <img src="https://raw.githubusercontent.com/hashtek-mc/.github/main/media/portraits/Lysandre-B.JPG?raw=true" height="175" alt="Lysandre (aka. Shuvly)'s portrait"/>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <p>Pokrov<br/><a href="https://github.com/pokrovv" target="_blank">@pokrovv</a></p>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            🏴‍☠️ 19 y/o Brussels dev
+            <br/>
+            Je conçois des sites internet depuis plusieurs années<br/>
+            <br/>
+        </tr>
        </table>
     </div>
   </div>  
