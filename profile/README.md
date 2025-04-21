@@ -64,18 +64,6 @@
             <a href="https://github.com/shuvlyy" target="_blank">
           </td>
         </tr>
-        <tr>
-          <td align="center">
-            <p>Pokrov<br/><a href="https://github.com/pokrovv" target="_blank">@pokrovv</a></p>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            🏴‍☠️ 19 y/o Brussels dev
-            <br/>
-            Je conçois des sites internet depuis plusieurs années<br/>
-            <br/>
-        </tr>
        </table>
     </div>
   </div>  
